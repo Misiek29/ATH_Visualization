@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: ae0ff3358315a0c44b34e6046821107a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: barierka
+    100002: barierka.001
+    100004: barierka.002
+    100006: Cylinder.007
+    100008: Cylinder.013
+    100010: Cylinder.014
+    100012: Cylinder.018
+    100014: Cylinder.019
+    100016: Cylinder.020
+    100018: Cylinder.021
+    100020: Cylinder.022
+    100022: Cylinder.023
+    100024: Cylinder.024
+    100026: Cylinder.025
+    100028: Cylinder.026
+    100030: Cylinder.027
+    100032: Cylinder.028
+    100034: Cylinder.029
+    100036: Cylinder.030
+    100038: Cylinder.031
+    100040: Drzwi DP3
+    100042: Drzwi DP3.001
+    100044: Drzwi Z2
+    100046: Drzwi Z2.001
+    100048: Drzwi Z2.002
+    100050: Drzwi ZP2
+    100052: Drzwi ZP2.001
+    100054: Drzwi ZP2.002
+    100056: Drzwi ZP3
+    100058: Drzwi ZP3.001
+    100060: Drzwi ZP3.002
+    100062: Drzwi_D2
+    100064: Drzwi_D2.001
+    100066: Drzwi_D2.002
+    100068: Drzwi_D2.003
+    100070: Drzwi_D2.004
+    100072: Drzwi_D2.005
+    100074: Drzwi_D2.006
+    100076: Drzwi_D2.007
+    100078: Drzwi_D2.008
+    100080: Drzwi_D2.009
+    100082: Drzwi_D2.010
+    100084: Drzwi_D2.011
+    100086: Drzwi_D2.012
+    100088: Drzwi_D2.013
+    100090: DrzwiD1.001
+    100092: DrzwiD1.002
+    100094: DrzwiD1.003
+    100096: DrzwiD1.004
+    100098: DrzwiD1.005
+    100100: DrzwiD1.006
+    100102: DrzwiD1.007
+    100104: DrzwiD1.008
+    100106: DrzwiD1.009
+    100108: DrzwiD1.010
+    100110: DrzwiD1.011
+    100112: DrzwiD1.013
+    100114: DrzwiD1.014
+    100116: DrzwiD1.017
+    100118: DrzwiD1.018
+    100120: DrzwiD1.021
+    100122: DrzwiD1.022
+    100124: DrzwiD1.025
+    100126: DrzwiD1.026
+    100128: DrzwiD1.028
+    100130: DrzwiD1.029
+    100132: DrzwiD1.030
+    100134: DrzwiD1.032
+    100136: DrzwiD1.033
+    100138: DrzwiD1.034
+    100140: DrzwiD1.035
+    100142: DRZWID1_All.001
+    100144: DRZWID1_All.002
+    100146: DRZWID1_All.003
+    100148: DRZWID1_All.004
+    100150: DRZWID1_All.005
+    100152: DRZWID1_All.006
+    100154: DRZWID1_All.007
+    100156: DRZWID1_All.008
+    100158: DRZWID1_All.009
+    100160: DRZWID1_All.010
+    100162: DRZWID1_All.011
+    100164: DRZWID1_All.012
+    100166: DRZWID1_All.013
+    100168: DRZWID1_All.014
+    100170: DRZWID1_All.015
+    100172: DRZWID1_Bool.001
+    100174: DrzwiD2.001
+    100176: DrzwiD2.003
+    100178: DrzwiD2.004
+    100180: DrzwiD2.005
+    100182: DrzwiD2_L.001
+    100184: DrzwiD2_R.001
+    100186: DrzwiD2_R.003
+    100188: DrzwiD2_R.004
+    100190: DrzwiD2_R.005
+    100192: drzwiDymoszczelne
+    100194: drzwiDymoszczelne.001
+    100196: drzwiDymoszczelne1
+    100198: filar
+    100200: filar.001
+    100202: filar.002
+    100204: FILARY
+    100206: lampy
+    100208: lampy.001
+    100210: lampy.002
+    100212: lampy.003
+    100214: lampy.004
+    100216: lampy.005
+    100218: lampy.006
+    100220: lampy.007
+    100222: lampy.011
+    100224: lampy.017
+    100226: //RootNode
+    100228: napis
+    100230: Okno O2
+    100232: okno O2
+    100234: Okno O6
+    100236: Okno O9
+    100238: Okno Z6
+    100240: PODLOGA.001
+    100242: porecz
+    100244: porecz.001
+    100246: porecz.002
+    100248: porecz.003
+    100250: schody
+    100252: schody.001
+    100254: schody.002
+    100256: SCIANY
+    100258: SCIANY.001
+    100260: SCIANY.002
+    100262: SCIANY.003
+    100264: SCIANY.005
+    100266: Stair
+    100268: SUFIT
+    100270: sufit_lampa_detal
+    100272: sufit_lampa_detal.001
+    100274: sufit_lampa_detal.002
+    100276: sufit_lampa_detal.003
+    100278: sufit_lampa_detal.004
+    100280: sufit_lampa_detal.005
+    100282: sufit_lampa_detal.006
+    100284: sufit_lampa_detal.007
+    100286: sufit_lampa_detal.008
+    100288: sufit_lampa_detal.009
+    100290: sufit_lampa_detal.010
+    100292: sufit_lampa_detal.011
+    100294: sufit_lampa_detal.012
+    100296: sufit_lampa_detal.013
+    100298: sufit_lampa_detal.014
+    100300: sufit_lampa_detal.015
+    100302: sufit_lampa_detal.016
+    100304: sufit_lampa_detal.017
+    100306: sufit_lampa_detal.018
+    100308: sufit_lampa_detal.019
+    100310: sufit_lampa_detal.020
+    100312: Winda_01
+    400000: barierka
+    400002: barierka.001
+    400004: barierka.002
+    400006: Cylinder.007
+    400008: Cylinder.013
+    400010: Cylinder.014
+    400012: Cylinder.018
+    400014: Cylinder.019
+    400016: Cylinder.020
+    400018: Cylinder.021
+    400020: Cylinder.022
+    400022: Cylinder.023
+    400024: Cylinder.024
+    400026: Cylinder.025
+    400028: Cylinder.026
+    400030: Cylinder.027
+    400032: Cylinder.028
+    400034: Cylinder.029
+    400036: Cylinder.030
+    400038: Cylinder.031
+    400040: Drzwi DP3
+    400042: Drzwi DP3.001
+    400044: Drzwi Z2
+    400046: Drzwi Z2.001
+    400048: Drzwi Z2.002
+    400050: Drzwi ZP2
+    400052: Drzwi ZP2.001
+    400054: Drzwi ZP2.002
+    400056: Drzwi ZP3
+    400058: Drzwi ZP3.001
+    400060: Drzwi ZP3.002
+    400062: Drzwi_D2
+    400064: Drzwi_D2.001
+    400066: Drzwi_D2.002
+    400068: Drzwi_D2.003
+    400070: Drzwi_D2.004
+    400072: Drzwi_D2.005
+    400074: Drzwi_D2.006
+    400076: Drzwi_D2.007
+    400078: Drzwi_D2.008
+    400080: Drzwi_D2.009
+    400082: Drzwi_D2.010
+    400084: Drzwi_D2.011
+    400086: Drzwi_D2.012
+    400088: Drzwi_D2.013
+    400090: DrzwiD1.001
+    400092: DrzwiD1.002
+    400094: DrzwiD1.003
+    400096: DrzwiD1.004
+    400098: DrzwiD1.005
+    400100: DrzwiD1.006
+    400102: DrzwiD1.007
+    400104: DrzwiD1.008
+    400106: DrzwiD1.009
+    400108: DrzwiD1.010
+    400110: DrzwiD1.011
+    400112: DrzwiD1.013
+    400114: DrzwiD1.014
+    400116: DrzwiD1.017
+    400118: DrzwiD1.018
+    400120: DrzwiD1.021
+    400122: DrzwiD1.022
+    400124: DrzwiD1.025
+    400126: DrzwiD1.026
+    400128: DrzwiD1.028
+    400130: DrzwiD1.029
+    400132: DrzwiD1.030
+    400134: DrzwiD1.032
+    400136: DrzwiD1.033
+    400138: DrzwiD1.034
+    400140: DrzwiD1.035
+    400142: DRZWID1_All.001
+    400144: DRZWID1_All.002
+    400146: DRZWID1_All.003
+    400148: DRZWID1_All.004
+    400150: DRZWID1_All.005
+    400152: DRZWID1_All.006
+    400154: DRZWID1_All.007
+    400156: DRZWID1_All.008
+    400158: DRZWID1_All.009
+    400160: DRZWID1_All.010
+    400162: DRZWID1_All.011
+    400164: DRZWID1_All.012
+    400166: DRZWID1_All.013
+    400168: DRZWID1_All.014
+    400170: DRZWID1_All.015
+    400172: DRZWID1_Bool.001
+    400174: DrzwiD2.001
+    400176: DrzwiD2.003
+    400178: DrzwiD2.004
+    400180: DrzwiD2.005
+    400182: DrzwiD2_L.001
+    400184: DrzwiD2_R.001
+    400186: DrzwiD2_R.003
+    400188: DrzwiD2_R.004
+    400190: DrzwiD2_R.005
+    400192: drzwiDymoszczelne
+    400194: drzwiDymoszczelne.001
+    400196: drzwiDymoszczelne1
+    400198: filar
+    400200: filar.001
+    400202: filar.002
+    400204: FILARY
+    400206: lampy
+    400208: lampy.001
+    400210: lampy.002
+    400212: lampy.003
+    400214: lampy.004
+    400216: lampy.005
+    400218: lampy.006
+    400220: lampy.007
+    400222: lampy.011
+    400224: lampy.017
+    400226: //RootNode
+    400228: napis
+    400230: Okno O2
+    400232: okno O2
+    400234: Okno O6
+    400236: Okno O9
+    400238: Okno Z6
+    400240: PODLOGA.001
+    400242: porecz
+    400244: porecz.001
+    400246: porecz.002
+    400248: porecz.003
+    400250: schody
+    400252: schody.001
+    400254: schody.002
+    400256: SCIANY
+    400258: SCIANY.001
+    400260: SCIANY.002
+    400262: SCIANY.003
+    400264: SCIANY.005
+    400266: Stair
+    400268: SUFIT
+    400270: sufit_lampa_detal
+    400272: sufit_lampa_detal.001
+    400274: sufit_lampa_detal.002
+    400276: sufit_lampa_detal.003
+    400278: sufit_lampa_detal.004
+    400280: sufit_lampa_detal.005
+    400282: sufit_lampa_detal.006
+    400284: sufit_lampa_detal.007
+    400286: sufit_lampa_detal.008
+    400288: sufit_lampa_detal.009
+    400290: sufit_lampa_detal.010
+    400292: sufit_lampa_detal.011
+    400294: sufit_lampa_detal.012
+    400296: sufit_lampa_detal.013
+    400298: sufit_lampa_detal.014
+    400300: sufit_lampa_detal.015
+    400302: sufit_lampa_detal.016
+    400304: sufit_lampa_detal.017
+    400306: sufit_lampa_detal.018
+    400308: sufit_lampa_detal.019
+    400310: sufit_lampa_detal.020
+    400312: Winda_01
+    2100000: No Name
+    2100002: Material
+    2300000: barierka
+    2300002: barierka.001
+    2300004: barierka.002
+    2300006: Cylinder.007
+    2300008: Cylinder.013
+    2300010: Cylinder.014
+    2300012: Cylinder.018
+    2300014: Cylinder.019
+    2300016: Cylinder.020
+    2300018: Cylinder.021
+    2300020: Cylinder.022
+    2300022: Cylinder.023
+    2300024: Cylinder.024
+    2300026: Cylinder.025
+    2300028: Cylinder.026
+    2300030: Cylinder.027
+    2300032: Cylinder.028
+    2300034: Cylinder.029
+    2300036: Cylinder.030
+    2300038: Cylinder.031
+    2300040: Drzwi DP3
+    2300042: Drzwi DP3.001
+    2300044: Drzwi Z2
+    2300046: Drzwi Z2.001
+    2300048: Drzwi Z2.002
+    2300050: Drzwi ZP2
+    2300052: Drzwi ZP2.001
+    2300054: Drzwi ZP2.002
+    2300056: Drzwi ZP3
+    2300058: Drzwi ZP3.001
+    2300060: Drzwi ZP3.002
+    2300062: DrzwiD1.001
+    2300064: DrzwiD1.002
+    2300066: DrzwiD1.003
+    2300068: DrzwiD1.004
+    2300070: DrzwiD1.005
+    2300072: DrzwiD1.006
+    2300074: DrzwiD1.007
+    2300076: DrzwiD1.008
+    2300078: DrzwiD1.009
+    2300080: DrzwiD1.010
+    2300082: DrzwiD1.011
+    2300084: DrzwiD1.013
+    2300086: DrzwiD1.014
+    2300088: DrzwiD1.017
+    2300090: DrzwiD1.018
+    2300092: DrzwiD1.021
+    2300094: DrzwiD1.022
+    2300096: DrzwiD1.025
+    2300098: DrzwiD1.026
+    2300100: DrzwiD1.028
+    2300102: DrzwiD1.029
+    2300104: DrzwiD1.030
+    2300106: DrzwiD1.032
+    2300108: DrzwiD1.033
+    2300110: DrzwiD1.034
+    2300112: DrzwiD1.035
+    2300114: DRZWID1_All.001
+    2300116: DRZWID1_All.002
+    2300118: DRZWID1_All.003
+    2300120: DRZWID1_All.004
+    2300122: DRZWID1_All.005
+    2300124: DRZWID1_All.006
+    2300126: DRZWID1_All.007
+    2300128: DRZWID1_All.008
+    2300130: DRZWID1_All.009
+    2300132: DRZWID1_All.010
+    2300134: DRZWID1_All.011
+    2300136: DRZWID1_All.012
+    2300138: DRZWID1_All.013
+    2300140: DRZWID1_All.014
+    2300142: DRZWID1_All.015
+    2300144: DRZWID1_Bool.001
+    2300146: DrzwiD2.001
+    2300148: DrzwiD2.003
+    2300150: DrzwiD2.004
+    2300152: DrzwiD2.005
+    2300154: DrzwiD2_L.001
+    2300156: DrzwiD2_R.001
+    2300158: DrzwiD2_R.003
+    2300160: DrzwiD2_R.004
+    2300162: DrzwiD2_R.005
+    2300164: drzwiDymoszczelne
+    2300166: drzwiDymoszczelne.001
+    2300168: drzwiDymoszczelne1
+    2300170: filar
+    2300172: filar.001
+    2300174: filar.002
+    2300176: FILARY
+    2300178: lampy
+    2300180: lampy.001
+    2300182: lampy.002
+    2300184: lampy.003
+    2300186: lampy.004
+    2300188: lampy.005
+    2300190: lampy.006
+    2300192: lampy.007
+    2300194: lampy.011
+    2300196: lampy.017
+    2300198: napis
+    2300200: Okno O2
+    2300202: okno O2
+    2300204: Okno O6
+    2300206: Okno O9
+    2300208: Okno Z6
+    2300210: PODLOGA.001
+    2300212: porecz
+    2300214: porecz.001
+    2300216: porecz.002
+    2300218: porecz.003
+    2300220: schody
+    2300222: schody.001
+    2300224: schody.002
+    2300226: SCIANY
+    2300228: SCIANY.001
+    2300230: SCIANY.002
+    2300232: SCIANY.003
+    2300234: SCIANY.005
+    2300236: Stair
+    2300238: SUFIT
+    2300240: sufit_lampa_detal
+    2300242: sufit_lampa_detal.001
+    2300244: sufit_lampa_detal.002
+    2300246: sufit_lampa_detal.003
+    2300248: sufit_lampa_detal.004
+    2300250: sufit_lampa_detal.005
+    2300252: sufit_lampa_detal.006
+    2300254: sufit_lampa_detal.007
+    2300256: sufit_lampa_detal.008
+    2300258: sufit_lampa_detal.009
+    2300260: sufit_lampa_detal.010
+    2300262: sufit_lampa_detal.011
+    2300264: sufit_lampa_detal.012
+    2300266: sufit_lampa_detal.013
+    2300268: sufit_lampa_detal.014
+    2300270: sufit_lampa_detal.015
+    2300272: sufit_lampa_detal.016
+    2300274: sufit_lampa_detal.017
+    2300276: sufit_lampa_detal.018
+    2300278: sufit_lampa_detal.019
+    2300280: sufit_lampa_detal.020
+    2300282: Winda_01
+    3300000: barierka
+    3300002: barierka.001
+    3300004: barierka.002
+    3300006: Cylinder.007
+    3300008: Cylinder.013
+    3300010: Cylinder.014
+    3300012: Cylinder.018
+    3300014: Cylinder.019
+    3300016: Cylinder.020
+    3300018: Cylinder.021
+    3300020: Cylinder.022
+    3300022: Cylinder.023
+    3300024: Cylinder.024
+    3300026: Cylinder.025
+    3300028: Cylinder.026
+    3300030: Cylinder.027
+    3300032: Cylinder.028
+    3300034: Cylinder.029
+    3300036: Cylinder.030
+    3300038: Cylinder.031
+    3300040: Drzwi DP3
+    3300042: Drzwi DP3.001
+    3300044: Drzwi Z2
+    3300046: Drzwi Z2.001
+    3300048: Drzwi Z2.002
+    3300050: Drzwi ZP2
+    3300052: Drzwi ZP2.001
+    3300054: Drzwi ZP2.002
+    3300056: Drzwi ZP3
+    3300058: Drzwi ZP3.001
+    3300060: Drzwi ZP3.002
+    3300062: DrzwiD1.001
+    3300064: DrzwiD1.002
+    3300066: DrzwiD1.003
+    3300068: DrzwiD1.004
+    3300070: DrzwiD1.005
+    3300072: DrzwiD1.006
+    3300074: DrzwiD1.007
+    3300076: DrzwiD1.008
+    3300078: DrzwiD1.009
+    3300080: DrzwiD1.010
+    3300082: DrzwiD1.011
+    3300084: DrzwiD1.013
+    3300086: DrzwiD1.014
+    3300088: DrzwiD1.017
+    3300090: DrzwiD1.018
+    3300092: DrzwiD1.021
+    3300094: DrzwiD1.022
+    3300096: DrzwiD1.025
+    3300098: DrzwiD1.026
+    3300100: DrzwiD1.028
+    3300102: DrzwiD1.029
+    3300104: DrzwiD1.030
+    3300106: DrzwiD1.032
+    3300108: DrzwiD1.033
+    3300110: DrzwiD1.034
+    3300112: DrzwiD1.035
+    3300114: DRZWID1_All.001
+    3300116: DRZWID1_All.002
+    3300118: DRZWID1_All.003
+    3300120: DRZWID1_All.004
+    3300122: DRZWID1_All.005
+    3300124: DRZWID1_All.006
+    3300126: DRZWID1_All.007
+    3300128: DRZWID1_All.008
+    3300130: DRZWID1_All.009
+    3300132: DRZWID1_All.010
+    3300134: DRZWID1_All.011
+    3300136: DRZWID1_All.012
+    3300138: DRZWID1_All.013
+    3300140: DRZWID1_All.014
+    3300142: DRZWID1_All.015
+    3300144: DRZWID1_Bool.001
+    3300146: DrzwiD2.001
+    3300148: DrzwiD2.003
+    3300150: DrzwiD2.004
+    3300152: DrzwiD2.005
+    3300154: DrzwiD2_L.001
+    3300156: DrzwiD2_R.001
+    3300158: DrzwiD2_R.003
+    3300160: DrzwiD2_R.004
+    3300162: DrzwiD2_R.005
+    3300164: drzwiDymoszczelne
+    3300166: drzwiDymoszczelne.001
+    3300168: drzwiDymoszczelne1
+    3300170: filar
+    3300172: filar.001
+    3300174: filar.002
+    3300176: FILARY
+    3300178: lampy
+    3300180: lampy.001
+    3300182: lampy.002
+    3300184: lampy.003
+    3300186: lampy.004
+    3300188: lampy.005
+    3300190: lampy.006
+    3300192: lampy.007
+    3300194: lampy.011
+    3300196: lampy.017
+    3300198: napis
+    3300200: Okno O2
+    3300202: okno O2
+    3300204: Okno O6
+    3300206: Okno O9
+    3300208: Okno Z6
+    3300210: PODLOGA.001
+    3300212: porecz
+    3300214: porecz.001
+    3300216: porecz.002
+    3300218: porecz.003
+    3300220: schody
+    3300222: schody.001
+    3300224: schody.002
+    3300226: SCIANY
+    3300228: SCIANY.001
+    3300230: SCIANY.002
+    3300232: SCIANY.003
+    3300234: SCIANY.005
+    3300236: Stair
+    3300238: SUFIT
+    3300240: sufit_lampa_detal
+    3300242: sufit_lampa_detal.001
+    3300244: sufit_lampa_detal.002
+    3300246: sufit_lampa_detal.003
+    3300248: sufit_lampa_detal.004
+    3300250: sufit_lampa_detal.005
+    3300252: sufit_lampa_detal.006
+    3300254: sufit_lampa_detal.007
+    3300256: sufit_lampa_detal.008
+    3300258: sufit_lampa_detal.009
+    3300260: sufit_lampa_detal.010
+    3300262: sufit_lampa_detal.011
+    3300264: sufit_lampa_detal.012
+    3300266: sufit_lampa_detal.013
+    3300268: sufit_lampa_detal.014
+    3300270: sufit_lampa_detal.015
+    3300272: sufit_lampa_detal.016
+    3300274: sufit_lampa_detal.017
+    3300276: sufit_lampa_detal.018
+    3300278: sufit_lampa_detal.019
+    3300280: sufit_lampa_detal.020
+    3300282: Winda_01
+    4300000: schody.002
+    4300002: Drzwi ZP2.002
+    4300004: napis
+    4300006: Drzwi DP3.001
+    4300008: Drzwi DP3
+    4300010: SCIANY.005
+    4300012: SCIANY.002
+    4300014: Winda_01
+    4300016: DrzwiD2_R.005
+    4300018: DrzwiD2.005
+    4300020: porecz
+    4300022: porecz.003
+    4300024: porecz.002
+    4300026: barierka.001
+    4300028: porecz.001
+    4300030: barierka
+    4300032: Cylinder.031
+    4300034: Cylinder.030
+    4300036: Cylinder.029
+    4300038: Cylinder.028
+    4300040: Cylinder.027
+    4300042: Cylinder.026
+    4300044: Cylinder.025
+    4300046: Cylinder.024
+    4300048: Cylinder.023
+    4300050: Cylinder.021
+    4300052: Cylinder.022
+    4300054: Cylinder.020
+    4300056: Cylinder.019
+    4300058: Cylinder.018
+    4300060: Cylinder.014
+    4300062: Cylinder.013
+    4300064: barierka.002
+    4300066: Cylinder.007
+    4300068: lampy.007
+    4300070: lampy.006
+    4300072: lampy.004
+    4300074: lampy.003
+    4300076: lampy.002
+    4300078: lampy.001
+    4300080: schody.001
+    4300082: schody
+    4300084: Stair
+    4300086: DrzwiD2.003
+    4300088: DrzwiD2_R.003
+    4300090: DrzwiD2_R.004
+    4300092: DrzwiD2.004
+    4300094: Drzwi ZP2.001
+    4300096: Drzwi ZP2
+    4300098: SCIANY.003
+    4300100: DrzwiD1.011
+    4300102: DrzwiD1.008
+    4300104: DrzwiD1.007
+    4300106: DrzwiD1.003
+    4300108: Okno Z6
+    4300110: DrzwiD1.035
+    4300112: DrzwiD1.029
+    4300114: filar.001
+    4300116: DrzwiD1.034
+    4300118: DrzwiD1.033
+    4300120: DrzwiD1.032
+    4300122: DrzwiD1.030
+    4300124: Okno O2
+    4300126: Okno O9
+    4300128: Drzwi ZP3
+    4300130: Drzwi ZP3.002
+    4300132: Okno O6
+    4300134: okno O2
+    4300136: Drzwi ZP3.001
+    4300138: DRZWID1_All.015
+    4300140: DrzwiD1.028
+    4300142: DrzwiD1.026
+    4300144: DRZWID1_All.014
+    4300146: DRZWID1_All.013
+    4300148: DrzwiD1.025
+    4300150: DrzwiD1.022
+    4300152: DRZWID1_All.012
+    4300154: DRZWID1_All.011
+    4300156: DrzwiD1.021
+    4300158: DrzwiD1.018
+    4300160: DRZWID1_All.010
+    4300162: DRZWID1_All.009
+    4300164: DrzwiD1.017
+    4300166: DrzwiD1.014
+    4300168: DRZWID1_All.008
+    4300170: SCIANY.001
+    4300172: DRZWID1_All.007
+    4300174: DrzwiD1.013
+    4300176: DrzwiD1.010
+    4300178: DRZWID1_All.006
+    4300180: DRZWID1_All.005
+    4300182: DrzwiD1.009
+    4300184: DrzwiD1.006
+    4300186: DRZWID1_All.004
+    4300188: DrzwiD1.005
+    4300190: DRZWID1_All.003
+    4300192: DRZWID1_All.002
+    4300194: DrzwiD1.004
+    4300196: DRZWID1_Bool.001
+    4300198: DrzwiD1.002
+    4300200: DrzwiD1.001
+    4300202: DRZWID1_All.001
+    4300204: DrzwiD2.001
+    4300206: DrzwiD2_R.001
+    4300208: DrzwiD2_L.001
+    4300210: sufit_lampa_detal.020
+    4300212: Drzwi Z2.001
+    4300214: Drzwi Z2.002
+    4300216: Drzwi Z2
+    4300218: drzwiDymoszczelne
+    4300220: drzwiDymoszczelne1
+    4300222: drzwiDymoszczelne.001
+    4300224: filar
+    4300226: filar.002
+    4300228: lampy.017
+    4300230: lampy.011
+    4300232: lampy.005
+    4300234: lampy
+    4300236: sufit_lampa_detal.019
+    4300238: sufit_lampa_detal.018
+    4300240: sufit_lampa_detal.017
+    4300242: sufit_lampa_detal.016
+    4300244: sufit_lampa_detal.015
+    4300246: sufit_lampa_detal.014
+    4300248: sufit_lampa_detal.013
+    4300250: sufit_lampa_detal.012
+    4300252: sufit_lampa_detal.011
+    4300254: sufit_lampa_detal.010
+    4300256: sufit_lampa_detal.009
+    4300258: sufit_lampa_detal.008
+    4300260: sufit_lampa_detal.007
+    4300262: sufit_lampa_detal.006
+    4300264: sufit_lampa_detal.005
+    4300266: sufit_lampa_detal.004
+    4300268: sufit_lampa_detal.003
+    4300270: sufit_lampa_detal.002
+    4300272: sufit_lampa_detal.001
+    4300274: PODLOGA.001
+    4300276: SUFIT
+    4300278: sufit_lampa_detal
+    4300280: FILARY
+    4300282: SCIANY
+    6400000: barierka
+    6400002: barierka.001
+    6400004: barierka.002
+    6400006: Cylinder.007
+    6400008: Cylinder.013
+    6400010: Cylinder.014
+    6400012: Cylinder.018
+    6400014: Cylinder.019
+    6400016: Cylinder.020
+    6400018: Cylinder.021
+    6400020: Cylinder.022
+    6400022: Cylinder.023
+    6400024: Cylinder.024
+    6400026: Cylinder.025
+    6400028: Cylinder.026
+    6400030: Cylinder.027
+    6400032: Cylinder.028
+    6400034: Cylinder.029
+    6400036: Cylinder.030
+    6400038: Cylinder.031
+    6400040: Drzwi DP3
+    6400042: Drzwi DP3.001
+    6400044: Drzwi Z2
+    6400046: Drzwi Z2.001
+    6400048: Drzwi Z2.002
+    6400050: Drzwi ZP2
+    6400052: Drzwi ZP2.001
+    6400054: Drzwi ZP2.002
+    6400056: Drzwi ZP3
+    6400058: Drzwi ZP3.001
+    6400060: Drzwi ZP3.002
+    6400062: DrzwiD1.001
+    6400064: DrzwiD1.002
+    6400066: DrzwiD1.003
+    6400068: DrzwiD1.004
+    6400070: DrzwiD1.005
+    6400072: DrzwiD1.006
+    6400074: DrzwiD1.007
+    6400076: DrzwiD1.008
+    6400078: DrzwiD1.009
+    6400080: DrzwiD1.010
+    6400082: DrzwiD1.011
+    6400084: DrzwiD1.013
+    6400086: DrzwiD1.014
+    6400088: DrzwiD1.017
+    6400090: DrzwiD1.018
+    6400092: DrzwiD1.021
+    6400094: DrzwiD1.022
+    6400096: DrzwiD1.025
+    6400098: DrzwiD1.026
+    6400100: DrzwiD1.028
+    6400102: DrzwiD1.029
+    6400104: DrzwiD1.030
+    6400106: DrzwiD1.032
+    6400108: DrzwiD1.033
+    6400110: DrzwiD1.034
+    6400112: DrzwiD1.035
+    6400114: DRZWID1_All.001
+    6400116: DRZWID1_All.002
+    6400118: DRZWID1_All.003
+    6400120: DRZWID1_All.004
+    6400122: DRZWID1_All.005
+    6400124: DRZWID1_All.006
+    6400126: DRZWID1_All.007
+    6400128: DRZWID1_All.008
+    6400130: DRZWID1_All.009
+    6400132: DRZWID1_All.010
+    6400134: DRZWID1_All.011
+    6400136: DRZWID1_All.012
+    6400138: DRZWID1_All.013
+    6400140: DRZWID1_All.014
+    6400142: DRZWID1_All.015
+    6400144: DRZWID1_Bool.001
+    6400146: DrzwiD2.001
+    6400148: DrzwiD2.003
+    6400150: DrzwiD2.004
+    6400152: DrzwiD2.005
+    6400154: DrzwiD2_L.001
+    6400156: DrzwiD2_R.001
+    6400158: DrzwiD2_R.003
+    6400160: DrzwiD2_R.004
+    6400162: DrzwiD2_R.005
+    6400164: drzwiDymoszczelne
+    6400166: drzwiDymoszczelne.001
+    6400168: drzwiDymoszczelne1
+    6400170: filar
+    6400172: filar.001
+    6400174: filar.002
+    6400176: FILARY
+    6400178: lampy
+    6400180: lampy.001
+    6400182: lampy.002
+    6400184: lampy.003
+    6400186: lampy.004
+    6400188: lampy.005
+    6400190: lampy.006
+    6400192: lampy.007
+    6400194: lampy.011
+    6400196: lampy.017
+    6400198: napis
+    6400200: Okno O2
+    6400202: okno O2
+    6400204: Okno O6
+    6400206: Okno O9
+    6400208: Okno Z6
+    6400210: PODLOGA.001
+    6400212: porecz
+    6400214: porecz.001
+    6400216: porecz.002
+    6400218: porecz.003
+    6400220: schody
+    6400222: schody.001
+    6400224: schody.002
+    6400226: SCIANY
+    6400228: SCIANY.001
+    6400230: SCIANY.002
+    6400232: SCIANY.003
+    6400234: SCIANY.005
+    6400236: Stair
+    6400238: SUFIT
+    6400240: sufit_lampa_detal
+    6400242: sufit_lampa_detal.001
+    6400244: sufit_lampa_detal.002
+    6400246: sufit_lampa_detal.003
+    6400248: sufit_lampa_detal.004
+    6400250: sufit_lampa_detal.005
+    6400252: sufit_lampa_detal.006
+    6400254: sufit_lampa_detal.007
+    6400256: sufit_lampa_detal.008
+    6400258: sufit_lampa_detal.009
+    6400260: sufit_lampa_detal.010
+    6400262: sufit_lampa_detal.011
+    6400264: sufit_lampa_detal.012
+    6400266: sufit_lampa_detal.013
+    6400268: sufit_lampa_detal.014
+    6400270: sufit_lampa_detal.015
+    6400272: sufit_lampa_detal.016
+    6400274: sufit_lampa_detal.017
+    6400276: sufit_lampa_detal.018
+    6400278: sufit_lampa_detal.019
+    6400280: sufit_lampa_detal.020
+    6400282: Winda_01
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
