@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: efe5fb30865ef4641a377c3dc3cee2d4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FILARY.048
+    100002: FILARY.049
+    100004: FILARY.050
+    100006: FILARY.051
+    100008: FILARY.052
+    100010: FILARY.053
+    100012: FILARY.054
+    100014: FILARY.055
+    100016: FILARY.056
+    100018: FILARY.057
+    100020: FILARY.058
+    100022: FILARY.059
+    100024: FILARY.060
+    100026: FILARY.061
+    100028: FILARY.062
+    100030: FILARY.063
+    100032: FILARY.064
+    100034: FILARY.065
+    100036: FILARY.066
+    100038: FILARY.067
+    100040: FILARY.068
+    100042: FILARY.069
+    100044: FILARY.070
+    100046: FILARY.071
+    100048: //RootNode
+    400000: FILARY.048
+    400002: FILARY.049
+    400004: FILARY.050
+    400006: FILARY.051
+    400008: FILARY.052
+    400010: FILARY.053
+    400012: FILARY.054
+    400014: FILARY.055
+    400016: FILARY.056
+    400018: FILARY.057
+    400020: FILARY.058
+    400022: FILARY.059
+    400024: FILARY.060
+    400026: FILARY.061
+    400028: FILARY.062
+    400030: FILARY.063
+    400032: FILARY.064
+    400034: FILARY.065
+    400036: FILARY.066
+    400038: FILARY.067
+    400040: FILARY.068
+    400042: FILARY.069
+    400044: FILARY.070
+    400046: FILARY.071
+    400048: //RootNode
+    2100000: filary
+    2300000: FILARY.048
+    2300002: FILARY.049
+    2300004: FILARY.050
+    2300006: FILARY.051
+    2300008: FILARY.052
+    2300010: FILARY.053
+    2300012: FILARY.054
+    2300014: FILARY.055
+    2300016: FILARY.056
+    2300018: FILARY.057
+    2300020: FILARY.058
+    2300022: FILARY.059
+    2300024: FILARY.060
+    2300026: FILARY.061
+    2300028: FILARY.062
+    2300030: FILARY.063
+    2300032: FILARY.064
+    2300034: FILARY.065
+    2300036: FILARY.066
+    2300038: FILARY.067
+    2300040: FILARY.068
+    2300042: FILARY.069
+    2300044: FILARY.070
+    2300046: FILARY.071
+    3300000: FILARY.048
+    3300002: FILARY.049
+    3300004: FILARY.050
+    3300006: FILARY.051
+    3300008: FILARY.052
+    3300010: FILARY.053
+    3300012: FILARY.054
+    3300014: FILARY.055
+    3300016: FILARY.056
+    3300018: FILARY.057
+    3300020: FILARY.058
+    3300022: FILARY.059
+    3300024: FILARY.060
+    3300026: FILARY.061
+    3300028: FILARY.062
+    3300030: FILARY.063
+    3300032: FILARY.064
+    3300034: FILARY.065
+    3300036: FILARY.066
+    3300038: FILARY.067
+    3300040: FILARY.068
+    3300042: FILARY.069
+    3300044: FILARY.070
+    3300046: FILARY.071
+    4300000: FILARY.071
+    4300002: FILARY.070
+    4300004: FILARY.069
+    4300006: FILARY.068
+    4300008: FILARY.067
+    4300010: FILARY.066
+    4300012: FILARY.065
+    4300014: FILARY.064
+    4300016: FILARY.063
+    4300018: FILARY.062
+    4300020: FILARY.061
+    4300022: FILARY.060
+    4300024: FILARY.059
+    4300026: FILARY.058
+    4300028: FILARY.057
+    4300030: FILARY.056
+    4300032: FILARY.055
+    4300034: FILARY.054
+    4300036: FILARY.053
+    4300038: FILARY.052
+    4300040: FILARY.051
+    4300042: FILARY.050
+    4300044: FILARY.049
+    4300046: FILARY.048
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
