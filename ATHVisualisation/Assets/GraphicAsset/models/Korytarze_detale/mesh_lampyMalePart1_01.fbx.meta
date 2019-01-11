@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: a909d6abdcb71494d914afb913cd2061
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: lampy.016
+    100002: lampy.059
+    100004: lampy.060
+    100006: lampy.061
+    100008: lampy.062
+    100010: lampy.063
+    100012: lampy.066
+    100014: lampy.067
+    100016: lampy.068
+    100018: lampy.069
+    100020: lampy.096
+    100022: lampy.097
+    100024: lampy.098
+    100026: lampy.099
+    100028: lampy.100
+    100030: lampy.101
+    100032: lampy.102
+    100034: lampy.104
+    100036: lampy.105
+    100038: //RootNode
+    400000: lampy.016
+    400002: lampy.059
+    400004: lampy.060
+    400006: lampy.061
+    400008: lampy.062
+    400010: lampy.063
+    400012: lampy.066
+    400014: lampy.067
+    400016: lampy.068
+    400018: lampy.069
+    400020: lampy.096
+    400022: lampy.097
+    400024: lampy.098
+    400026: lampy.099
+    400028: lampy.100
+    400030: lampy.101
+    400032: lampy.102
+    400034: lampy.104
+    400036: lampy.105
+    400038: //RootNode
+    2100000: lampy
+    2100002: swiatla
+    2300000: lampy.016
+    2300002: lampy.059
+    2300004: lampy.060
+    2300006: lampy.061
+    2300008: lampy.062
+    2300010: lampy.063
+    2300012: lampy.066
+    2300014: lampy.067
+    2300016: lampy.068
+    2300018: lampy.069
+    2300020: lampy.096
+    2300022: lampy.097
+    2300024: lampy.098
+    2300026: lampy.099
+    2300028: lampy.100
+    2300030: lampy.101
+    2300032: lampy.102
+    2300034: lampy.104
+    2300036: lampy.105
+    3300000: lampy.016
+    3300002: lampy.059
+    3300004: lampy.060
+    3300006: lampy.061
+    3300008: lampy.062
+    3300010: lampy.063
+    3300012: lampy.066
+    3300014: lampy.067
+    3300016: lampy.068
+    3300018: lampy.069
+    3300020: lampy.096
+    3300022: lampy.097
+    3300024: lampy.098
+    3300026: lampy.099
+    3300028: lampy.100
+    3300030: lampy.101
+    3300032: lampy.102
+    3300034: lampy.104
+    3300036: lampy.105
+    4300000: lampy.016
+    4300002: lampy.105
+    4300004: lampy.104
+    4300006: lampy.102
+    4300008: lampy.101
+    4300010: lampy.100
+    4300012: lampy.099
+    4300014: lampy.098
+    4300016: lampy.059
+    4300018: lampy.097
+    4300020: lampy.096
+    4300022: lampy.063
+    4300024: lampy.062
+    4300026: lampy.061
+    4300028: lampy.060
+    4300030: lampy.069
+    4300032: lampy.068
+    4300034: lampy.067
+    4300036: lampy.066
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
