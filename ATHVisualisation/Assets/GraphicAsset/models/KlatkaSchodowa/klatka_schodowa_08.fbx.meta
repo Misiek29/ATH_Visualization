@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 7e1734b4bc17d9b42879e021f32bb408
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Okno O2.001
+    100004: Okno O9.001
+    100006: podloga_klatka.003
+    100008: schody.030
+    100010: schody.031
+    100012: schody.032
+    100014: schody.033
+    100016: schody.034
+    100018: schody.035
+    100020: schody.036
+    100022: sciany_klatka.012
+    100024: sciany_klatka.013
+    100026: sciany_klatka.014
+    100028: sciany_klatka.015
+    100030: sciany_klatka.016
+    100032: sufit_klatka.003
+    400000: //RootNode
+    400002: Okno O2.001
+    400004: Okno O9.001
+    400006: podloga_klatka.003
+    400008: schody.030
+    400010: schody.031
+    400012: schody.032
+    400014: schody.033
+    400016: schody.034
+    400018: schody.035
+    400020: schody.036
+    400022: sciany_klatka.012
+    400024: sciany_klatka.013
+    400026: sciany_klatka.014
+    400028: sciany_klatka.015
+    400030: sciany_klatka.016
+    400032: sufit_klatka.003
+    2100000: sciany_klatka.002
+    2100002: okno 02-09.004
+    2100004: schody.004
+    2100006: podloga_klatka.005
+    2100008: sufit_l;latka.004
+    2100010: sciany_klatka.005
+    2300000: Okno O2.001
+    2300002: Okno O9.001
+    2300004: podloga_klatka.003
+    2300006: schody.030
+    2300008: schody.031
+    2300010: schody.032
+    2300012: schody.033
+    2300014: schody.034
+    2300016: schody.035
+    2300018: schody.036
+    2300020: sciany_klatka.012
+    2300022: sciany_klatka.013
+    2300024: sciany_klatka.014
+    2300026: sciany_klatka.015
+    2300028: sciany_klatka.016
+    2300030: sufit_klatka.003
+    3300000: Okno O2.001
+    3300002: Okno O9.001
+    3300004: podloga_klatka.003
+    3300006: schody.030
+    3300008: schody.031
+    3300010: schody.032
+    3300012: schody.033
+    3300014: schody.034
+    3300016: schody.035
+    3300018: schody.036
+    3300020: sciany_klatka.012
+    3300022: sciany_klatka.013
+    3300024: sciany_klatka.014
+    3300026: sciany_klatka.015
+    3300028: sciany_klatka.016
+    3300030: sufit_klatka.003
+    4300000: sciany_klatka.016
+    4300002: sciany_klatka.015
+    4300004: Okno O9.001
+    4300006: Okno O2.001
+    4300008: schody.036
+    4300010: schody.035
+    4300012: schody.033
+    4300014: schody.034
+    4300016: schody.032
+    4300018: schody.031
+    4300020: schody.030
+    4300022: podloga_klatka.003
+    4300024: sufit_klatka.003
+    4300026: sciany_klatka.014
+    4300028: sciany_klatka.013
+    4300030: sciany_klatka.012
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
