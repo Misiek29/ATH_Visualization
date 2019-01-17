@@ -73,4 +73,4 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 6.4136586, g: 6.4136586, b: 5.1920094, a: 1}
+    - _EmissionColor: {r: 9.239457, g: 9.239457, b: 8.672887, a: 1}
