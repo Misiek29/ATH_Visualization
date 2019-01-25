@@ -8,17 +8,35 @@ public class AdditionalFunction : MonoBehaviour {
     private float restartTimer;
     private bool activeRestartCanvas = false;
     private bool activePlanCanvas = false;
+    public bool activeStartCanvas = true;
+    private CharacterController charController;
 
     public GameObject RestartCanvas;
     public GameObject PlanCanvas;
+    public GameObject StartMenu;
 
-   
+    
+
+
+    public Camera cam;
+    
+     private void Awake()
+    {
+        //charController = GetComponent<CharacterController>();
+        //cam.cullingMask &= ~(1 << LayerMask.NameToLayer("Default"));
+       // cam.cullingMask ^= 1 << LayerMask.NameToLayer("Start");
+    }
+
     public float requireRestartTime;
 
-
+    
 	// Use this for initialization
 	void Start () {
-
+        
+      
+        
+        StartMenu.SetActive(true);
+        charController.enabled = false;
 
     }
 	
@@ -47,9 +65,16 @@ public class AdditionalFunction : MonoBehaviour {
             }
           }
 
-        if (Input.GetKeyUp("joystick button 3"))
+        if (Input.GetKeyUp("joystick button 3") )
         {
+            
             ShowRestartCanvas();
+        }
+
+        if (Input.GetKeyUp("joystick button 1") && activeStartCanvas == true)
+        {
+            StartApp();
+
         }
     }
 
@@ -70,7 +95,7 @@ public class AdditionalFunction : MonoBehaviour {
 
     public void ShowPlanCanvas()
     {
-        if (activePlanCanvas == false)
+        if (activePlanCanvas == false && activeStartCanvas == false)
         {
             activePlanCanvas = true;
             PlanCanvas.SetActive(true);
@@ -81,6 +106,16 @@ public class AdditionalFunction : MonoBehaviour {
             activePlanCanvas = false;
             PlanCanvas.SetActive(false);
         }
+    }
+
+    public void StartApp()
+    {
+        activeStartCanvas = false;
+        cam.cullingMask &= ~(1 << LayerMask.NameToLayer("Start"));
+        cam.cullingMask ^= 1 << LayerMask.NameToLayer("Default");
+        charController.enabled = true;
+       
+
     }
 
     public void RestartApp()
