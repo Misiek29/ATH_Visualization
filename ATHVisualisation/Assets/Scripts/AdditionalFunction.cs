@@ -22,9 +22,7 @@ public class AdditionalFunction : MonoBehaviour {
     
      private void Awake()
     {
-        //charController = GetComponent<CharacterController>();
-        //cam.cullingMask &= ~(1 << LayerMask.NameToLayer("Default"));
-       // cam.cullingMask ^= 1 << LayerMask.NameToLayer("Start");
+        
     }
 
     public float requireRestartTime;
@@ -32,9 +30,11 @@ public class AdditionalFunction : MonoBehaviour {
     
 	// Use this for initialization
 	void Start () {
-        
-      
-        
+
+        charController = GetComponent<CharacterController>();
+        cam.cullingMask &= ~(1 << LayerMask.NameToLayer("Default"));
+        cam.cullingMask ^= 1 << LayerMask.NameToLayer("Start");
+
         StartMenu.SetActive(true);
         charController.enabled = false;
 
@@ -121,5 +121,6 @@ public class AdditionalFunction : MonoBehaviour {
     public void RestartApp()
     {
         SceneManager.LoadScene("AthVisualisation");
+        System.GC.Collect();
     }
 }
