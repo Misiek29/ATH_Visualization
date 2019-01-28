@@ -31,6 +31,8 @@ public class AdditionalFunction : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+       
+
         charController = GetComponent<CharacterController>();
         cam.cullingMask &= ~(1 << LayerMask.NameToLayer("Default"));
         cam.cullingMask ^= 1 << LayerMask.NameToLayer("Start");
