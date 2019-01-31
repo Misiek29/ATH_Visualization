@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 1.745367, g: 2.038894, b: 2.9236557, a: 1}
+  m_IndirectSpecularColor: {r: 1.7249078, g: 2.0281482, b: 2.948702, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -58,7 +58,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 10
     m_Resolution: 3
-    m_BakeResolution: 60
+    m_BakeResolution: 80
     m_AtlasSize: 4096
     m_AO: 0
     m_AOMaxDistance: 1
@@ -71,7 +71,7 @@ LightmapSettings:
     m_TextureCompression: 1
     m_FinalGather: 1
     m_FinalGatherFiltering: 1
-    m_FinalGatherRayCount: 256
+    m_FinalGatherRayCount: 1024
     m_ReflectionCompression: 2
     m_MixedBakeMode: 2
     m_BakeBackend: 0
@@ -9581,7 +9581,7 @@ MeshRenderer:
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
+  m_ScaleInLightmap: 1.5
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -10485,7 +10485,7 @@ Prefab:
     - target: {fileID: 224672449439372954, guid: 428af54142123434db20e30def3812b5,
         type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 224279654409314958, guid: 428af54142123434db20e30def3812b5,
         type: 2}
@@ -11137,8 +11137,8 @@ ReflectionProbe:
   m_TimeSlicingMode: 0
   m_Resolution: 1024
   m_UpdateFrequency: 0
-  m_BoxSize: {x: 14.544086, y: 4.1054754, z: 19.357494}
-  m_BoxOffset: {x: 1.1976624, y: 0.011838675, z: 3.1503277}
+  m_BoxSize: {x: 15.374813, y: 4.1054754, z: 19.357494}
+  m_BoxOffset: {x: 0.78229904, y: 0.011838675, z: 3.1503277}
   m_NearClip: 0.3
   m_FarClip: 1000
   m_ShadowDistance: 100
