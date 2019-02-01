@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 109f6abdd4351f34d906f6b27bc2eea3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sufit_lampa_detal.000
+    100004: sufit_lampa_detal.001
+    100006: sufit_lampa_detal.002
+    100008: sufit_lampa_detal.003
+    100010: sufit_lampa_detal.004
+    100012: sufit_lampa_detal.005
+    100014: sufit_lampa_detal.006
+    100016: sufit_lampa_detal.007
+    100018: sufit_lampa_detal.008
+    100020: sufit_lampa_detal.009
+    100022: sufit_lampa_detal.010
+    100024: sufit_lampa_detal.011
+    100026: sufit_lampa_detal.012
+    100028: sufit_lampa_detal.013
+    100030: sufit_lampa_detal.014
+    100032: sufit_lampa_detal.015
+    100034: sufit_lampa_detal.016
+    100036: sufit_lampa_detal.017
+    100038: sufit_lampa_detal.028
+    100040: sufit_lampa_detal.029
+    100042: sufit_lampa_detal.030
+    400000: //RootNode
+    400002: sufit_lampa_detal.000
+    400004: sufit_lampa_detal.001
+    400006: sufit_lampa_detal.002
+    400008: sufit_lampa_detal.003
+    400010: sufit_lampa_detal.004
+    400012: sufit_lampa_detal.005
+    400014: sufit_lampa_detal.006
+    400016: sufit_lampa_detal.007
+    400018: sufit_lampa_detal.008
+    400020: sufit_lampa_detal.009
+    400022: sufit_lampa_detal.010
+    400024: sufit_lampa_detal.011
+    400026: sufit_lampa_detal.012
+    400028: sufit_lampa_detal.013
+    400030: sufit_lampa_detal.014
+    400032: sufit_lampa_detal.015
+    400034: sufit_lampa_detal.016
+    400036: sufit_lampa_detal.017
+    400038: sufit_lampa_detal.028
+    400040: sufit_lampa_detal.029
+    400042: sufit_lampa_detal.030
+    2100000: lampy
+    2300000: sufit_lampa_detal.000
+    2300002: sufit_lampa_detal.001
+    2300004: sufit_lampa_detal.002
+    2300006: sufit_lampa_detal.003
+    2300008: sufit_lampa_detal.004
+    2300010: sufit_lampa_detal.005
+    2300012: sufit_lampa_detal.006
+    2300014: sufit_lampa_detal.007
+    2300016: sufit_lampa_detal.008
+    2300018: sufit_lampa_detal.009
+    2300020: sufit_lampa_detal.010
+    2300022: sufit_lampa_detal.011
+    2300024: sufit_lampa_detal.012
+    2300026: sufit_lampa_detal.013
+    2300028: sufit_lampa_detal.014
+    2300030: sufit_lampa_detal.015
+    2300032: sufit_lampa_detal.016
+    2300034: sufit_lampa_detal.017
+    2300036: sufit_lampa_detal.028
+    2300038: sufit_lampa_detal.029
+    2300040: sufit_lampa_detal.030
+    3300000: sufit_lampa_detal.000
+    3300002: sufit_lampa_detal.001
+    3300004: sufit_lampa_detal.002
+    3300006: sufit_lampa_detal.003
+    3300008: sufit_lampa_detal.004
+    3300010: sufit_lampa_detal.005
+    3300012: sufit_lampa_detal.006
+    3300014: sufit_lampa_detal.007
+    3300016: sufit_lampa_detal.008
+    3300018: sufit_lampa_detal.009
+    3300020: sufit_lampa_detal.010
+    3300022: sufit_lampa_detal.011
+    3300024: sufit_lampa_detal.012
+    3300026: sufit_lampa_detal.013
+    3300028: sufit_lampa_detal.014
+    3300030: sufit_lampa_detal.015
+    3300032: sufit_lampa_detal.016
+    3300034: sufit_lampa_detal.017
+    3300036: sufit_lampa_detal.028
+    3300038: sufit_lampa_detal.029
+    3300040: sufit_lampa_detal.030
+    4300000: sufit_lampa_detal.017
+    4300002: sufit_lampa_detal.016
+    4300004: sufit_lampa_detal.015
+    4300006: sufit_lampa_detal.014
+    4300008: sufit_lampa_detal.013
+    4300010: sufit_lampa_detal.012
+    4300012: sufit_lampa_detal.011
+    4300014: sufit_lampa_detal.010
+    4300016: sufit_lampa_detal.009
+    4300018: sufit_lampa_detal.006
+    4300020: sufit_lampa_detal.005
+    4300022: sufit_lampa_detal.004
+    4300024: sufit_lampa_detal.003
+    4300026: sufit_lampa_detal.002
+    4300028: sufit_lampa_detal.001
+    4300030: sufit_lampa_detal.000
+    4300032: sufit_lampa_detal.008
+    4300034: sufit_lampa_detal.007
+    4300036: sufit_lampa_detal.028
+    4300038: sufit_lampa_detal.029
+    4300040: sufit_lampa_detal.030
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
