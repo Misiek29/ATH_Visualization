@@ -1,16 +1,15 @@
 fileFormatVersion: 2
-guid: ff0843fe20aaa5941a693585b0dcab37
+guid: 8073cdb7573bd42449509cb0df031201
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
     2100000: 01 - Default
-    2100002: 01 - Default.001
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Cylinder026
-    7400000: robot_move
+    4300000: Cylinder026.007
+    7400000: RobotMove
     9500000: //RootNode
   externalObjects: {}
   materials:
@@ -23,7 +22,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    motionNodeName: <Root Transform>
+    motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
     animationImportErrors: 
@@ -41,17 +40,17 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: robot_move
-      takeName: Scene
-      firstFrame: 1
-      lastFrame: 3974
+      name: RobotMove
+      takeName: Cylinder026.007|Cylinder026Action.009
+      firstFrame: 0
+      lastFrame: 3976
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
