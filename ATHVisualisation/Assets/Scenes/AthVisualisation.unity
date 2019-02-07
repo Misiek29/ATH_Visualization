@@ -58,7 +58,7 @@ LightmapSettings:
   m_LightmapEditorSettings:
     serializedVersion: 10
     m_Resolution: 3
-    m_BakeResolution: 20
+    m_BakeResolution: 70
     m_AtlasSize: 4096
     m_AO: 0
     m_AOMaxDistance: 1
@@ -7181,7 +7181,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: e150f0293beb5b943889d95868cac9e8, type: 3}
       propertyPath: m_ScaleInLightmap
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e150f0293beb5b943889d95868cac9e8, type: 3}
@@ -7331,6 +7331,10 @@ Prefab:
     - target: {fileID: 100000, guid: 35daf11bd095d6b47aaaf5f667a09b7a, type: 3}
       propertyPath: m_Layer
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 35daf11bd095d6b47aaaf5f667a09b7a, type: 3}
+      propertyPath: m_ScaleInLightmap
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 35daf11bd095d6b47aaaf5f667a09b7a, type: 3}
@@ -8532,7 +8536,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &966135255
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12207,7 +12211,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1346761495
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -20129,7 +20133,7 @@ Prefab:
     - target: {fileID: 114310161762799330, guid: 428af54142123434db20e30def3812b5,
         type: 2}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114127187215828178, guid: 428af54142123434db20e30def3812b5,
         type: 2}
@@ -20168,7 +20172,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1227086533470094, guid: 428af54142123434db20e30def3812b5, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1182778888842370, guid: 428af54142123434db20e30def3812b5, type: 2}
       propertyPath: m_IsActive
